@@ -1,4 +1,4 @@
-# Heads-Up-Display-For-GMOD (GTA SA Style)
+# Copy GTA:SA HUD (Heads Up Display)
 
 [English](#english) | [Русский](#русский)
 
